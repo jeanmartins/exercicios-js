@@ -1,13 +1,13 @@
-const imprimirSoma = function (a,b){
-    console.log(a +b)
+const imprimirSoma = function (a, b) {
+    console.log(a + b)
 }
 
-imprimirSoma(2,3)
+imprimirSoma(2, 3)
 
 
-const soma = (a, b) => { console.log(a + b)}
+const soma = (a, b) => { console.log(a + b) }
 
-soma(2,3)
+soma(2, 3)
 
-const subtracao = (a, b) => a- b;
-console.log(subtracao(2,3))
+const subtracao = (a, b) => a - b;
+console.log(subtracao(2, 3))
